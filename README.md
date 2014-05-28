@@ -1,4 +1,4 @@
 latlong
 =======
 
-A collection of geodesy functions implemented in JavaScript
+This is now relocated to the [geodesy](../../../geodesy) repository
